@@ -36,3 +36,4 @@ node_modules
 
 # Intellij IDEA
 .idea
+*.iml

@@ -1,8 +1,24 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Ling, a Software Engineer from Washington, DC.\n![ling](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Ling? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Ling](postback:learn_about_ling) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set LingBot up! Do you want to tell Ling that you're talking to him bot? %[Tell him](postback:twitter)",
-    "TELL HIM": "Let's tweet @ Ling so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Ling](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "HELLO": "Hi there!\nI’m the personal bot of Ling, nice to talk with you!\n![ling](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to learn more about Ling? Please pick one to learn more %[Education](postback:education) %[Experience](postback:professional_experience) %[Hobbies](postback:hobbies)",
+    "TELL HIM": "Let's tweet @ Ling so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Ling](https://twitter.com/jackypig0906)",
+    "I LOVE YOU": "I appreciate your love, but I only accept my wife's.",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, LingBot is back."
+    "DISCONNECT": "Roger that, LingBot is back.",
+
+    "LEARN ABOUT LING": "Ling is a Software Engineer from Washington, DC",
+
+    "EDUCATION": "He got MS from NTU, and PHD from UMD",
+    "PROFESSIONAL EXPERIENCE": "Please pick one learn more %[Research](postback:research) %[Software Engineer](postback:software_engineer) %[One random fact!](postback:random_fact)",
+    "RESEARCH": "Ling's PHD research is about the application of plasmon resonance in nano particles.",
+    "DEVELOPER":"As a developer, Ling is proficient in the following languages. Pick one to learn about the project. %[Java](postback:java) %[Js](postback:js) %[Aws](postback:aws)",
+    "SOFTWARE ENGINEER":"",
+    "PROGRAMMER": "",
+
+    "JAVA": "",
+    "JAVASCRIPT": "",
+    "FRONTEND": "",
+    "BACKEND": "",
+
+    "HOBBY": ""
+
 }
