@@ -1,5 +1,5 @@
 {
-    "HELLO": "Hi there!\nMy name is LingBot, the personal bot of Ling, nice to talk with you!\n![ling](https://raw.githubusercontent.com/jackypig/LingBot/master/img/ling.jpg)\nWant to learn more about Ling? Please pick one to learn more %[Education] %[Professional Experience]",
+    "HELLO": "Hi there!\nMy name is LingBot, the personal bot of Ling, nice to talk with you!\n![ling](https://raw.githubusercontent.com/jackypig/LingBot/master/img/ling.jpg)\nWant to learn more about Ling? Please pick one to learn more %[Education]() %[Professional Experience]()",
     "TELL HIM": "Let's tweet @ Ling so he knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Ling](https://twitter.com/jackypig0906)",
     "I LOVE YOU": "I appreciate your love, but I only accept my wife's.",
     "CONNECT ME": "",
@@ -7,10 +7,10 @@
 
     "LEARN ABOUT LING": "Ling is a Software Engineer working at XAPPmedia Inc. in Washington, DC.",
 
-    "EDUCATION": "In 2006, Ling got his MS in Photonics and Optoelectronics Engineering from National Taiwan University, and in 2013 he earned his PHD in Electrical Engineering from University of Maryland College Park. \nWant to learn more about Ling's experience? Just pick one below: %[Research] %[Software Engineer]",
-    "PROFESSIONAL EXPERIENCE": "Cool! I'm glad to tell you about Ling's professional experience :D. To be more specific, please choose what you are interested in from below: %[Research] %[Software Engineer]",
+    "EDUCATION": "In 2006, Ling got his MS in Photonics and Optoelectronics Engineering from National Taiwan University, and in 2013 he earned his PHD in Electrical Engineering from University of Maryland College Park. \nWant to learn more about Ling's experience? Just pick one below: %[Research]() %[Software Engineer]()",
+    "PROFESSIONAL EXPERIENCE": "Cool! I'm glad to tell you about Ling's professional experience :D. To be more specific, please choose what you are interested in from below: %[Research]() %[Software Engineer]()",
     "RESEARCH": "Ling's research was about the applications of plasmon resonance in metallic nano-particles, including surface-enhanced Raman scattering (SERS), heat-assisted magnetic recording (HAMR), and all-optical magnetic recording (AOMR).",
-    "SOFTWARE ENGINEER":"Ling has been working on various projects, including front end website design and backend logic implementation. They were all full of challenges and made him stronger. Here are some particular ones that he likes to talk about: 1. Implemented content management system REST API; 2. Built in-house ETL service; 3. Built Ad impression report and user response report. %[What languages does Ling know?]",
+    "SOFTWARE ENGINEER":"Ling has been working on various projects, including front end website design and backend logic implementation. They were all full of challenges and made him stronger. Here are some particular ones that he likes to talk about: 1. Implemented content management system REST API; 2. Built in-house ETL service; 3. Built Ad impression report and user response report. %[What languages does Ling know?]()",
     "WHAT LANGUAGES DOES LING KNOW?": "Java, JavaScript, HTML, CSS, XML, Python, Scala, MySQL, NoSQL, PostgreSQL, MATLAB, C/C++, FORTRAN.",
 
     "JAVA": "",
